@@ -35,13 +35,20 @@ As a Java developer, you might encounter a wide range of abbreviations and acron
 | JDK          | Java Development Kit              | Software development kit required to develop Java applications and applets.               |
 | SDK          | Software Development Kit          | Set of tools for building software applications.                                          |
 | IDE          | Integrated Development Environment | Software application that provides comprehensive facilities to computer programmers for software development. |
-| OOP          | Object-Oriented Programming       | Programming paradigm based on the concept of "objects".                                   |
 | ORM          | Object-Relational Mapping         | Technique for converting data between incompatible type systems in object-oriented programming. |
+| NIO          | Non-blocking I/O                  | API for building scalable, non-blocking I/O operations in Java.                           |
+| AIO          | Asynchronous I/O                  | API for performing asynchronous I/O operations.                                           |
+| RxJava       | Reactive Extensions for Java      | Library for composing asynchronous and event-based programs using observable sequences.   |
+| R2DBC        | Reactive Relational Database Connectivity | Specification for reactive programming with relational databases.                        |
+
+
 
 ## Software Development Practices
 
 | Abbreviation | Unabbreviated Form                | Short Description                                                                         |
 |--------------|-----------------------------------|-------------------------------------------------------------------------------------------|
+| OOP          | Object-Oriented Programming       | Programming paradigm based on the concept of "objects".                                   |
+| FP           | Functional Programming            | Programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. |
 | SOLID        | Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion | Principles for object-oriented design. |
 | MVC          | Model-View-Controller             | Architectural pattern for implementing user interfaces.                                   |
 | TDD          | Test-Driven Development           | Software development process that relies on the repetition of a very short development cycle. |
@@ -67,6 +74,7 @@ As a Java developer, you might encounter a wide range of abbreviations and acron
 | SSL          | Secure Sockets Layer              | Standard security technology for establishing an encrypted link between a server and a client. |
 | TLS          | Transport Layer Security          | Successor protocol to SSL for encrypting data.                                            |
 | LDAP         | Lightweight Directory Access Protocol | Open, vendor-neutral, industry standard for accessing and maintaining distributed directory information services. |
+| SAML         | Security Assertion Markup Language | Open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. |
 
 ## Databases and Storage
 
@@ -95,6 +103,8 @@ As a Java developer, you might encounter a wide range of abbreviations and acron
 | QA           | Quality Assurance                 | Ensuring that the software meets the required quality standards before release.            |
 | BVT          | Build Verification Test           | A set of tests run on a new build to verify that it is testable before it is released to testing teams. |
 | E2E          | End-to-End Testing                | Testing the flow of an application from start to finish to ensure all integrated components work as expected. |
+| FIRST        | Fast, Independent, Repeatable, Self-validating, Timely | Principles for effective unit tests. |
+
 
 ---
 

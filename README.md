@@ -56,7 +56,8 @@ As a Java developer, you might encounter a wide range of abbreviations and acron
 | CI           | Continuous Integration            | Practice of merging all developer working copies to a shared mainline several times a day. |
 | CD           | Continuous Delivery/Deployment    | Practice of delivering/deploying software in shorter cycles.                              |
 | DRY          | Don't Repeat Yourself             | Principle aimed at reducing the repetition of software patterns.                          |
-| KISS         | Keep It Simple, Stupid            | Design principle stating that systems should be as simple as possible.                    |
+| KISS         | Keep It Simple, Stupid            | Design principle stating that systems should be as simple as possible.                    |                                                                    |
+| DRY          | Don't Repeat Yourself             | Principle aimed at reducing the repetition of software patterns.                          |
 | YAGNI        | You Aren't Gonna Need It          | Principle that states to not add functionality until it is necessary.                     |
 | DDD          | Domain-Driven Design              | Approach to software development for complex needs by connecting the implementation to an evolving model. |
 | CQRS         | Command Query Responsibility Segregation | Pattern that separates read and write operations for a data store.                         |
